@@ -42,7 +42,7 @@ Below are the screenshot of the script running and showing summary statistics an
 
 ![Sample Output Screenshot](Sc1.png)
 
-![Sample Output Screenshot](Sc2.png)
+![Sample Output Screenshot](sc2.png)
 
 ---
 
