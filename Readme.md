@@ -38,7 +38,7 @@ An end-to-end Python script to clean CSV datasets by handling missing values, re
 
 ## Sample Output
 
-Below are the screenshot of the script running and showing summary statistics and cleaning logs:
+Below are the screenshots of the script running and showing summary statistics and cleaning logs:
 
 ![Sample Output Screenshot](Sc1.png)
 
